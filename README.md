@@ -6,6 +6,8 @@ A Windows Forms desktop application built with C# and SQL Server for managing a 
 
 Name: Alisha Sajjad
 Roll Number:[F23BDOCS1M01084]
+Name:Javeria Siddique
+Roll Number:[F23BDOCS1M01098]
 
 🛠️ Technologies Used
 
